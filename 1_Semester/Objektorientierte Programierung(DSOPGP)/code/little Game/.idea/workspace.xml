@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aa8f756-be6d-48c4-b40f-3088e242f3d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/IU_Präsentation_DSEI.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/IU_Präsentation_DSEI.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/Wired und Wireless Netzwerke und ihre Topologien.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/Wired und Wireless Netzwerke und ihre Topologien.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Handout-Muster.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Handout-Muster.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wired und Wireless Netzwerke und ihre Topologien.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2aiCiLmTpbiI76V6r6KIVMLFc1E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Korbinian/OneDrive/Dokumente/GitHub/IU_Unterlagen/1_Semester/Objektorientierte Programierung(DSOPGP)/code/little Game/src",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aa8f756-be6d-48c4-b40f-3088e242f3d8" name="Changes" comment="" />
+      <created>1704792142268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704792142268</updated>
+      <workItem from="1704792143042" duration="217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+</project>
