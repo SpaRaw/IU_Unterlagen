@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fb80561-7528-4fd8-8cc3-a39c29a36782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../little Game/src/game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/littleGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/IU_Präsentation_DSEI.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/IU_Präsentation_DSEI.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/Wired und Wireless Netzwerke und ihre Topologien.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Einführung_in_die_Informatik(DSEI)/Wired und Wireless Netzwerke und ihre Topologien.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Handout-Muster.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Handout-Muster.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Wired und Wireless Netzwerke und ihre Topologien.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2aiD9lRUkY2IaR5cM6JigUtMGii" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Korbinian\OneDrive\Dokumente\GitHub\IU_Unterlagen\1_Semester\Objektorientierte Programierung(DSOPGP)\code\littleGame\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fb80561-7528-4fd8-8cc3-a39c29a36782" name="Changes" comment="" />
+      <created>1704792360166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704792360166</updated>
+      <workItem from="1704792361180" duration="2506000" />
+      <workItem from="1705941456429" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
