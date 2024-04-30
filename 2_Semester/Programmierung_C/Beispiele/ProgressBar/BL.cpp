@@ -41,7 +41,7 @@ void ProgressBar::setMaxStep(int anz) {
 
 void ProgressBar::display(){
     double currPercentage = (static_cast<double> (this->currStep) / static_cast<double>(this->maxStep));
-    std::cout << std::setw(5)<<(currPercentage*100)<<"% ";
+    std::cout << std::setw(5)<<(currPercentage*100.00)<<"% ";
     for(int i = 0; i< floor(currPercentage * 15); ++i){
         std::cout << "|";
     }
