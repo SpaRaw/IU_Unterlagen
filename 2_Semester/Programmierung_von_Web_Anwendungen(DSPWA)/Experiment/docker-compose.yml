@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  app:
+    container_name: "express_app"
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    volumes:
+      - ./app:/app
+    ports:
+      - "3000:3000"
+  mysql:
+    image: mysql:8.0
+    container_name: dbs
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: nextjs_db
+    ports:
+      - "3306:3306"
