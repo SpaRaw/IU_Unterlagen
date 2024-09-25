@@ -1,0 +1,15 @@
+config:
+  target: 'http://localhost:3000'  # Basis-URL deiner API
+  phases:
+    - duration: 120
+      arrivalRate: 100
+      name: Warm up
+
+  defaults:
+    headers:
+      Content-Type: 'application/json'
+
+scenarios:
+  - flow:
+      - get:
+          url: '/api/asynchron'  # Erster Endpunkt testen
